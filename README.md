@@ -95,10 +95,6 @@ To run this project, the following Python libraries are required:
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the Jupyter notebook or Python script to see the results.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
 - The dataset used in this project was provided by [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-movie-reviews).
